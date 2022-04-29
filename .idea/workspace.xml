@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f303e853-1e83-4143-bc5c-b35624e81128" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/joda_time_2_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven-time.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maven-time.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/hello/Greeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/hello/Greeter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/hello/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/hello/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gs-maven-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/gs-maven-0.1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-gs-maven-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-gs-maven-0.1.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
